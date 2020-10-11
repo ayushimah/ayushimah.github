@@ -10,6 +10,12 @@ header {
   background: #111;
 }
 
+div.disabled {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+
+
 .headline {
   position: relative;
   height: 400px;
